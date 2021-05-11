@@ -13,4 +13,4 @@ key can be found in the Discord Dev portal.
 <br/>
 
 ## New Embeds look -
-<img align="left" alt="BOTLOFI" width="400px" src=""/>
+<img align="left" alt="BOTLOFI" width="400px" src="https://user-images.githubusercontent.com/72495317/117791139-a1bfa880-b267-11eb-80be-9a8832b80838.PNG"/>
