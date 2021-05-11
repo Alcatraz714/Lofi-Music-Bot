@@ -5,9 +5,9 @@ Now added Youtube play features
 ## The .env file is not provided but a format is given without the key.
 key can be found in the Discord Dev portal.
 # Keynotes -
-## THE .env files needs to be created and symtax has been provided - ENV format
+## THE .env files needs to be created and syntax has been provided - ENV format
 ### Fork and share 
-### Do not work without .env file, causes bot takeovers and changes if token is found.
+### Don't work without .env file, causes bot takeovers and changes if token is found.
 <img align="left" alt="BOTLOFI" width="300px" src="https://i.pinimg.com/originals/19/7f/cf/197fcfb4fb3db74c2a12e7056e41b453.gif"/>
 
 <br/>
