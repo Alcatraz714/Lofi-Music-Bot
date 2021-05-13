@@ -12,9 +12,9 @@ key can be found in the Discord Dev portal.
 
 <br/>
 
-## New Embeds look -
+# New Embeds look -
 <img align="left" alt="BOTLOFI" width="400px" src="https://user-images.githubusercontent.com/72495317/117791139-a1bfa880-b267-11eb-80be-9a8832b80838.PNG"/>
 <br/>
 
-## Now Playing look -
+# Now Playing look -
 <img align="left" alt="BOTLOFI" width="400px" src="https://user-images.githubusercontent.com/72495317/118120003-d91b8a00-b40c-11eb-8ff2-09ed91996e5c.PNG"/>
